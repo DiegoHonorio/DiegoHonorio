@@ -8,14 +8,17 @@
   <img align="center" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Diego-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Diego-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
   <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <img align="center" alt="Diego-Swift" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
   <img align="center" alt="Diego-Python" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShfyqDEHLGKx5TameWlQxwf0nRcxrI0-1E0A&usqp=CAU">
   <img align="center" alt="Diego-Swift" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+
   <img align="center" alt="Diego-Swift" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
   <img align="center" alt="Diego-Swift" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732250.png">
   <img align="center" alt="Diego-Swift" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg">
-  <img align="center" alt="Diego-Swift" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
  
 </div>
   
