@@ -10,8 +10,9 @@
   <img align="center" alt="Diego-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Diego-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Diego-Swift" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/191px-Swift_logo.svg.png">
+  <img align="center" alt="Diego-Python" height="30" width="40" src="https://realkotlin.com/assets/images/kotlin-logo-1000.png">
+  <img align="center" alt="Diego-Swift" height="30" width="40" src="https://i.pinimg.com/236x/02/55/3a/02553ab35a4a3541b9fb3bc8f1fad1bc.jpg">
+  <img align="center" alt="Diego-Swift" height="30" width="40" src="https://i.pinimg.com/236x/02/55/3a/02553ab35a4a3541b9fb3bc8f1fad1bc.jpg">
  
 </div>
   
