@@ -14,6 +14,7 @@
   <img align="center" alt="Diego-Swift" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" alt="Diego-Swift" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
   <img align="center" alt="Diego-Swift" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732250.png">
+  <img align="center" alt="Diego-Swift" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg">
  
 </div>
   
