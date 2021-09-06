@@ -1,4 +1,6 @@
-## Muito prazer! Eu sou o Diego Honório
+<h1 align="center">Hi 🤝, I'm Diego Honório</h1>
+<h3 align="center">International projects mobile lead</h3>
+
  <div>
   <a href="https://github.com/DiegoHonorio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegohonorio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
