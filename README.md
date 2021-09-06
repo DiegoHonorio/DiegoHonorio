@@ -1,5 +1,4 @@
 <h1 align="center">Hi 🤝, I'm Diego Honório</h1>
-<h3 align="center">International projects mobile lead</h3>
 
  <div>
   <a href="https://github.com/DiegoHonorio">
