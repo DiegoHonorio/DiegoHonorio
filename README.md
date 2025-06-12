@@ -18,7 +18,6 @@
   <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
   <img alt="Swift" src="https://www.iconninja.com/files/200/1007/686/company-technology-ipad-logo-apple-ios-iphone-icon.svg" width="40" height="40"/>
   <img alt="Android" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg?raw=true" width="40" height="40"/>
-  <img alt="Python" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShfyqDEHLGKx5TameWlQxwf0nRcxrI0-1E0A&usqp=CAU" width="40" height="40"/>
   <img alt="Java" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="40" height="40"/>
   <img alt="Git" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="40" height="40"/>
   <img alt="GitHub" src="https://cdn-icons-png.flaticon.com/512/732/732250.png" width="40" height="40"/>
