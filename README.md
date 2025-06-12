@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Diego Honório</h1>
-<h3 align="center">A passionate developer 🚀 who loves JavaScript, TypeScript, Mobile, and Backend technologies.</h3>
 
 <p align="center">
   <a href="https://github.com/DiegoHonorio">
@@ -31,7 +30,7 @@
 ### 📫 Connect with me
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diegohonorio_)  
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:honorioproduction@gmail.com)  
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegohonoriosantos@icloud.com)  
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegohonorio)
 
 ---
